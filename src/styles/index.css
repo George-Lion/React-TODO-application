@@ -27,8 +27,8 @@ body {
     transition: 0.5s;
     background-size: 200% auto;
     color: white;
+    font-weight: bold;
     border-radius: 0px 10px 10px 0px;
-   
     display: block;
 }
 
@@ -43,6 +43,13 @@ body {
 .title {
     font-family: 'Fredoka One', cursive;
     margin-bottom: 15px;
+    margin-left:auto;
+    margin-right: auto;
+    width: 215px;
+}
+
+.add {
+    font-weight: bold;
 }
 
 form {
@@ -53,6 +60,7 @@ form {
 
 .validacion {
     color: red;
+    margin-bottom: 10px;
 }
 
 .caja {
@@ -68,16 +76,14 @@ form {
     width: 400px;
     padding: 10px;
 
-
 }
 
 input {
-   
+
     margin-left: 10px;
     margin-bottom: 10px;
-    width: 248px;
+    width: 243px;
     padding-left: 10px;
-
 
 }
 
@@ -111,6 +117,7 @@ input {
     background-image: linear-gradient(to right, #36D1DC 0%, #5B86E5 51%, #36D1DC 100%)
 }
 
-.num{
+.num {
     margin-top: 10px;
+    padding: 6px;
 }

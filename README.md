@@ -1,3 +1,18 @@
+## React TODO application
+
+The following project generates a list of tasks with options that allow you to add or delete it. Each component is divided into a file and through the
+using `props` we can access them from our home.
+
+The rendering shows us the title and then a `form` label in which the `input` is found in which the user will enter his task and insert it in the list by means of a button, in the body the added tasks will appear and in the part lower the count of the number of tasks.
+
+Recommended websites for theme icons, style and tools:
+
+[-Bootstrap](https://getbootstrap.com/).
+
+[-Fontawesome](https://fontawesome.com/).
+
+[-CSS gradient](https://cssgradient.io/).
+
 # Hello World with React boilerplate
 <p>
   <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />

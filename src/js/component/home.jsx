@@ -30,7 +30,7 @@ const Home = () => {
 						/>
 					))}
 				</div>
-				<div className="num">number of tasks {listaTareas.length}</div>
+				<div className="num">Number of tasks {listaTareas.length}</div>
 			</div>
 		</div>
 	);
